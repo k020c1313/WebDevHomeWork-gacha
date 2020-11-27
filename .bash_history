@@ -29,3 +29,18 @@ cd ubuntu
 ;s
 ls
 git init
+git add .
+git commit -m "homework"
+git config --global user.email "k020c1313@it-neec.jp"
+git config --global user.name "k020c1313"
+git commit -m "homework"
+git push -u origin master
+git remote add origin https://github.com/k020c1313/web-dev-homework.git
+git push origin master
+sudo python3 main.py
+git commit -t "homeworl"
+git commit -t "homework"
+git init
+git commit -t "homework"
+git add .
+git commit -t "homework"
